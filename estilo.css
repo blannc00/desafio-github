@@ -7,6 +7,13 @@ body{
     background-color:#000000;
     font-family: Arial, Helvetica, sans-serif;
 }
+.tran1{
+    transition: all 1s ease;
+}
+.tran1:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
 .contenedor{
     width: 97%;
 	margin: 20px auto;

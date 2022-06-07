@@ -57,41 +57,72 @@ main{
     margin: 20px;
     flex-direction: row;
     color: white;
+    transition: all 1s ease;
+}
+.mother:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
 }
 .procesador{
     width: 11%;
     height: 40vh;
     margin: 20px;
     flex-direction: row;
-    color: white
+    color: white;
+    transition: all 1s ease;
+}
+.procesador:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
 }
 .grafica{
     width: 11%;
     height: 40vh;
     margin: 20px;
     flex-direction: row;
-    color: white
+    color: white;
+    transition: all 1s ease;
+}
+.grafica:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
 }
 .ram{
     width: 11%;
     height: 40vh;
     margin: 20px;
     flex-direction: row;
-    color: white
+    color: white;
+    transition: all 1s ease;
 }
+.ram:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+
 .fuente{
     width: 11%;
     height: 40vh;
     margin: 20px;
     flex-direction: row;
-    color: white
+    color: white;
+    transition: all 1s ease;
+}
+.fuente:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
 }
 .gabinete{
     width: 11%;
     height: 40vh;
     margin: 20px;
     flex-direction: row;
-    color: white
+    color: white;
+    transition: all 1s ease;
+}
+.gabinete:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
 }
 .contenedor2{
     width: 97%;
